@@ -1,0 +1,32 @@
+
+*{
+margin:10px 20px;
+/*padding:10px;*/
+
+}
+
+body{
+background-color:red;
+border: solid yellow;
+
+}
+
+.image{
+width:100px;
+}
+
+h1{
+color:white;
+}
+
+h1:hover{
+color:yellow;
+}
+
+.wip{
+width:400px;
+}
+
+#rim{
+border:solid blue;
+}
